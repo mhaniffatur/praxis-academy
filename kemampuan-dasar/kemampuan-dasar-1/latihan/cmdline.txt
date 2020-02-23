@@ -1,0 +1,20 @@
+1. 'arp -a' 			= melihat daftar Address Resolution Protocol (ARP) 
+2. 'assoc .<extension>' 	= lihat asosiasi pada extensi file sesuai parameter
+3. 'assoc .<extension> =' 	= hapus asosiasi pada extensi file sesuai parameter
+4. 'assoc' 			= lihat semua asosiasi extensi file pada pc
+5. 'assoc | more' 		= sama seperti 'assoc' hanya saja ditampilkan terbatas per layar
+6. 'assoc>assoc.txt' 		= menampilkan semua asosiasi extensi file pada pc dalam bentuk file txt
+7. 'cd <path>' 			= membuka direktori sesuai parameter
+8. 'cd..' 			= membuka direktori parent dari direktori saat ini
+9. 'cls' 			= membersihkan layar cmd
+10.'cmd' 			= lihat informasi dan versi os
+11.'cmd /t:<B><F>' 		= membuka cmd baru dengan warna background sesuai parameter B dan warna tulisan sesuai parameter F
+12.'cmd /q' 			= membuka cmd baru tanpa fungsi echo
+13.'color <B><F>' 		= mengubah warna cmd dengan warna background sesuai parameter B dan warna tulisan sesuai parameter F
+14.'echo <message>' 		= menampilkan pesan sesuai parameter message
+15.'echo <ON>' 			= menyalakan fungsi echo
+16.'echo <OFF>' 		= mematikan fungsi echo
+17.'echo'		 	= melihat status echo on atau off
+18.'erase <filename>' 		= hapus file dengan nama sesuai parameter filename pada direktori saat ini
+19.'exit' 			= keluar dari cmd
+20.'help <command>' 		= lihat penjelasan suatu command yang sesuai dengan parameter command
