@@ -25,6 +25,8 @@ void run()
 ```
 baris diatas merupakan pendefinisian method run, method ini berjenis method void / method tanpa nilai balik
 
+<br />
+
 ```java
 boolean isDead()
 {
@@ -33,6 +35,8 @@ boolean isDead()
 }
 ```
 baris diatas merupakan pendefinisian method isDead, method ini berjenis method non-void / method dengan nilai balik
+
+<br />
 
 ## Game.java
 Game.java merupakan file **main** yang diakses
@@ -53,6 +57,8 @@ petani.healthPoin = 100;
 // name dalam petani.name merupakan nama atribut yanf didefinsikan pada class player.java
 ```
 baris diatas merupakan pendefinisian atribut yang terdapat pada di class player.java melalui objek petani pada game.java
+
+<br />
 
 ```java
 petani.run();

@@ -14,7 +14,7 @@ BangunDatar.java -> Segitiga.java
 *ket
 simbol -> berarti mewariskan
 ```
-
+<br />
 ## Inheritance pada Persegi.java
 
 ```java
@@ -26,7 +26,7 @@ extends disini berarti class persegi **mewarisi** seluruh atribut dan method yan
 persegi.test();
 ```
 padahal method test() hanya terdapat di BangunDatar.java tapi kita bisa memanggilnya lewat objek persegi
-
+<br />
 ## Overriding pada Persegi.java
 
 overriding disini berarti kita **menulis ulang method yang sudah diwariskan**. Sebagai contoh pada class BangunDatar.java sudah terdapat method luas yang diwariskan ke class persegi. tetapi apabila kita ingin memodifikasinya hanya untuk class Persegi.java kita bisa menggunakan konsep overriding, yang berarti kita menulis ulang method yang diwariskan tadi
