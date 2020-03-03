@@ -1,3 +1,9 @@
+# Konsep OOP
+ada 3 konsep oop yang dikenalkan pada saat praktik di file ini, yakni
+1. Pendefinisian sebuah class sebagai objek pada class lainnya
+2. mendefinisikan atribut pada sebuah class melalui objek yang sudah didefinisikan
+3. memanggil method pada sebuah class melalui objek yang sudah didefinisikan
+
 # Penjelasan koding
 disini terdapat 2 file yang akan dijelaskan yaitu  **Player.java** dan **Game.java**
 
