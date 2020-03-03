@@ -16,6 +16,8 @@ int healthPoin;
 ```
 baris diatas merupakan pendefinisian atribut/variabel yang hanya bisa diakses di class player
 
+<br />
+
 ```java
 void run()
 {
@@ -46,6 +48,9 @@ Game.java merupakan file **main** yang diakses
 Player petani = new Player();
 ```
 baris diatas merupakan pendefinisian class player.java sebagai objek di class Game.java
+
+<br />
+
 
 ```java
 petani.name = "Petani Kode";
