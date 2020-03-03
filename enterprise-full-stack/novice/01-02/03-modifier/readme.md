@@ -21,3 +21,10 @@ Keterangan:
 2. N artinya `tidak bisa diakses`;
 3. Subclass `artinya class anak`;
 4. World artinya `seluruh package di aplikasi`.
+
+
+```
+sumber & referensi
+```
+[Petani Kode - oop modifier](
+https://www.petanikode.com/java-oop-modifier/)

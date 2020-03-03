@@ -77,3 +77,9 @@ if(petani.isDead()){
 // run dalam petani.run() merupakan nama method yang didefinsikan pada class player.java
 ```
 baris diatas merupakan pemanggilan method yang terdapat pada di class player.java melalui objek petani pada game.java
+
+```
+sumber & referensi
+```
+1. [Petani Kode - oop dasar](
+https://www.petanikode.com/java-oop/)

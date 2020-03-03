@@ -50,3 +50,10 @@ float luas()
 }
 ```
 @Override digunakan agar kita bisa menulis ulang method luas pada Persegi.java
+
+```
+sumber & referensi
+```
+
+1. [Petani Kode - inheritance](
+https://www.petanikode.com/java-oop/)
