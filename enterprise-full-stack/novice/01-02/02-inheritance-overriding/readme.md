@@ -7,10 +7,46 @@ ada 2 konsep oop yang dikenalkan pada praktik di file ini, yakni :
 
 ## diagram pewarisan pada file
 
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
+```java
+BangunDatar.java -> Persegi.java
+BangunDatar.java -> Segitiga.java
+
+*ket
+simbol -> berarti mewariskan
 ```
 
+## Inheritance pada Persegi.java
 
+```java
+public class Persegi extends BangunDatar 
+```
+extends disini berarti class persegi **mewarisi** seluruh atribut dan method yang ada pada class BangunDatar. Hal ini membuat kita dapat memanggil atribut/method pada BangunDatar melalui Objek persegi seperti ini
+
+```java
+persegi.test();
+```
+padahal method test() hanya terdapat di BangunDatar.java tapi kita bisa memanggilnya lewat objek persegi
+
+## Overriding pada Persegi.java
+
+overriding disini berarti kita **menulis ulang method yang sudah diwariskan**. Sebagai contoh pada class BangunDatar.java sudah terdapat method luas yang diwariskan ke class persegi. tetapi apabila kita ingin memodifikasinya hanya untuk class Persegi.java kita bisa menggunakan konsep overriding, yang berarti kita menulis ulang method yang diwariskan tadi
+
+```java
+float luas()
+{
+        System.out.println("Menghitung laus bangun datar");
+        return 0;
+}
+```
+method luas sudah ada pada BangunDatar.java. tetapi kita ingin memodifikasinya di Persegi.java
+
+```java
+@Override
+float luas()
+{
+    float luas = sisi * sisi;
+    System.out.println("Luas Persegi: " + luas);
+    return luas;
+}
+```
+@Override digunakan agar kita bisa menulis ulang method luas pada Persegi.java

@@ -20,6 +20,7 @@ public class Main
         bangunDatar.luas();
         bangunDatar.keliling();
         
+        persegi.test();
         persegi.luas();
         persegi.keliling();
         
