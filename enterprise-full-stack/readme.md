@@ -1,6 +1,7 @@
 ## Overview Progress Enterprise Full Stack Developer
 
 ## 01-01
+- [x] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-01)
 ```
 Latihan
 ```
@@ -19,6 +20,7 @@ Referensi: [Bagaimana meminta input dari user di Java?](https://stackoverflow.co
 dalam program, tetepi merupakan hasil input dari pemakai program.
 
 ## 01-02
+- [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02)
 ```
 Latihan
 ```
@@ -34,7 +36,7 @@ Kasus
 - [ ] Lengkapi / perbaiki *CRC Cards* untuk sistem yang sudah anda buat pada *Latihan point 1*. Implementasikan dalam bentuk source code.  
 
 ## 01-03
-
+- [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-03)
 ```
 Latihan
 ```
@@ -48,6 +50,7 @@ Kasus
 - [ ] Kerjakan [java2novice.com Java Example Programs tentang Generics](http://www.java2novice.com/java-generics/). 
 
 ## 01-04
+- [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-04)
 ```
 Latihan
 ```
@@ -60,6 +63,7 @@ Kasus
 - [ ] Kerjakan kasus *vending machine* yang terdapat di [blog ini](https://javarevisited.blogspot.com/2016/06/design-vending-machine-in-java.html). Gunakan Gradle untuk mengelola proses *build* dan *run* dari software yang anda buat tersebut. Setelah selesai, jelaskan pada repo GitHub anda.
 
 ## 01-05
+- [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-05)
 ```
 Latihan
 ```
