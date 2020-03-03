@@ -32,6 +32,7 @@ Operator dalam pemrograman digunakan untuk melakukan operasi tertentu. Misalkan 
 Ada **6 jenis kelompok operator** dalam pemrograman Java:
 
 **1.  Operator Artimatika;**
+
 Operator aritmatika digunakan untuk melakukan operasi aritmatika. Operator ini terdiri dari :
  1. Penjumlahan (`+`) 
 2. Pengurangan (`-`)
@@ -40,6 +41,7 @@ Operator aritmatika digunakan untuk melakukan operasi aritmatika. Operator ini t
 5. Sisa Bagi 		(`%`)
 
 **2.  Operator Penugasan;**
+
 Operator penugasan  _(Assignment Operator)_  fungsinya untuk meberikan tugas pada variabel tertentu. Biasanya untuk mengisi nilai. Operator Penugasan terdiri dari :
 1. Pengisian Nilai (`=`)
 2. Pengisian dan Penambahan (`+=`)
@@ -49,6 +51,7 @@ Operator penugasan  _(Assignment Operator)_  fungsinya untuk meberikan tugas pad
 6. Pengisian dan Sisa bagi (`%=`)
 
 **3.  Operator Pembanding;**
+
 Seperti namanya, tugas oprator ini untuk membandingkan. Operator ini juga dikenal dengan opeartor relasi. Nilai yang dihasilkan dari operator ini berupa boolean, yaitu:  `true`  dan  `false`. Operator ini terdiri dari :
 
 1. Lebih Besar (`>`)
@@ -59,6 +62,7 @@ Seperti namanya, tugas oprator ini untuk membandingkan. Operator ini juga dikena
 6. Lebih Kecil Sama dengan (`<=`)
 
 **4.  Operator Logika;**
+
 Operator Logika digunakan untuk membuat operasi logika. Operator ini terdiri dari :
 
 1. Logika AND (`&&`)
@@ -66,6 +70,7 @@ Operator Logika digunakan untuk membuat operasi logika. Operator ini terdiri dar
 3. Negasi/kebalikan (`!`)
 
 **5.  Operator Bitwise;**
+
 Operator bitwise merupkan operator yang digunakan untuk operasi bit (biner). Operator bitwise terdiri dari:
 
 1. AND (`&`)
