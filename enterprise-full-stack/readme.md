@@ -2,6 +2,8 @@
 
 ## 01-01
 - [x] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-01)
+- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-01/latihan)
+- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-01/kasus)
 ```
 Latihan
 ```
@@ -21,6 +23,8 @@ dalam program, tetepi merupakan hasil input dari pemakai program.
 
 ## 01-02
 - [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02)
+- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/latihan)
+- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/kasus)
 ```
 Latihan
 ```
@@ -37,6 +41,8 @@ Kasus
 
 ## 01-03
 - [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-03)
+- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-03/latihan)
+- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-03/kasus)
 ```
 Latihan
 ```
@@ -51,6 +57,8 @@ Kasus
 
 ## 01-04
 - [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-04)
+- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-04/latihan)
+- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-04/kasus)
 ```
 Latihan
 ```
@@ -64,6 +72,8 @@ Kasus
 
 ## 01-05
 - [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-05)
+- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-05/latihan)
+- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-05/kasus)
 ```
 Latihan
 ```
