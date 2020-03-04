@@ -1,3 +1,7 @@
+# Konsep OOP
+konsep oop yang dikenalkan disini hanya 1, yakni
+1. Modifier
+   
 # Ada 3 Macam Modifier dalam Java
 Secara umum ada 3 macam modifier yang digunakan dalam Java: public, private, dan protected.
 
@@ -26,5 +30,5 @@ Keterangan:
 ```
 sumber & referensi
 ```
-[Petani Kode - oop modifier](
+1. [Petani Kode - oop modifier](
 https://www.petanikode.com/java-oop-modifier/)
