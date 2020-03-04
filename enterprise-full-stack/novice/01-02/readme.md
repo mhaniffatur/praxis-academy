@@ -47,3 +47,10 @@ ada 7 sub materi yang dibahas di konsep oop
     [Praktik dan Penjelasan **Class Interface**](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/06-interface)
 
 7. Class Abstract
+
+
+## Materi Konsep Package
+
+## Materi Konsep Gradle
+
+## Materi Konsep Exception Handling

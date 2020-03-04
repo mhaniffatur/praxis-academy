@@ -2,8 +2,6 @@
 
 ## 01-01
 - [x] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-01)
-- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-01/latihan)
-- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-01/kasus)
 ```
 Latihan
 ```
@@ -22,27 +20,23 @@ Referensi: [Bagaimana meminta input dari user di Java?](https://stackoverflow.co
 dalam program, tetepi merupakan hasil input dari pemakai program.
 
 ## 01-02
-- [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02)
-- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/latihan)
-- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/kasus)
+- [x] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02)
 ```
 Latihan
 ```
 
 - [ ]  Salah satu cara untuk menumbuhkan pola pikir obyek adalah penggunaan [CRC Card](http://agilemodeling.com/artifacts/crcModel.htm). Pelajari dan buat 1 contoh sistem lain.
-- [ ] Kerjakan [Java OOP Concepts Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html) terutama pada bagian *object, class, inheritance, interface*. Buat dalam bentuk *executable .JAR file*, jelaskan dalam README di repo GitHub anda.
+- [x] Kerjakan [Java OOP Concepts Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html) terutama pada bagian *object, class, inheritance, interface*. Buat dalam bentuk *executable .JAR file*, jelaskan dalam README di repo GitHub anda.
 - [ ] Kerjakan point 2 di *materi dan penjelasan* di atas.
-- [ ] Install Gradle dan kerjakan [panduan singkat ini](https://guides.gradle.org/building-java-applications/). Jelaskan dalam README.md.
-- [ ] Kerjakan point 5 di *materi dan penjelasan* di atas.
+- [x] Install Gradle dan kerjakan [panduan singkat ini](https://guides.gradle.org/building-java-applications/). Jelaskan dalam README.md.
+- [x] Kerjakan point 5 di *materi dan penjelasan* di atas.
 ```
 Kasus
 ```
-- [ ] Lengkapi / perbaiki *CRC Cards* untuk sistem yang sudah anda buat pada *Latihan point 1*. Implementasikan dalam bentuk source code.  
+- [x] Lengkapi / perbaiki *CRC Cards* untuk sistem yang sudah anda buat pada *Latihan point 1*. Implementasikan dalam bentuk source code.  
 
 ## 01-03
 - [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-03)
-- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-03/latihan)
-- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-03/kasus)
 ```
 Latihan
 ```
@@ -57,8 +51,6 @@ Kasus
 
 ## 01-04
 - [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-04)
-- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-04/latihan)
-- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-04/kasus)
 ```
 Latihan
 ```
@@ -72,8 +64,6 @@ Kasus
 
 ## 01-05
 - [ ] [Rangkuman materi Pembelajaran](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-05)
-- [ ] [Readme latihan](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-05/latihan)
-- [ ] [Readme Kasus](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-05/kasus)
 ```
 Latihan
 ```
