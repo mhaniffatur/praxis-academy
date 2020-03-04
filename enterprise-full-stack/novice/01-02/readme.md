@@ -19,8 +19,31 @@ ada 7 sub materi yang dibahas di konsep oop
 
    [Praktik dan Penjelasan **Inheritance dan Overriding**](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/02-inheritance-overriding)
 
-3. Class Modifier
-4. Method Constructor
-5. Konsep `this` dan `super`
-6. Class Interface
+3. **Class Modifier**
+
+    Class Modifier merupakan properti khusus yang ditulis dengan format
+    ```java
+    <*modifier*> Class <*nama class*>
+    ```
+    [Penjelasan **Class Modifier**](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/03-modifier)
+
+4. **Method Constructor**
+
+    Method constructor merupakan method spesial yang selalu langsung dieksekusi ketika sebuah class diinisiasi sebagai objek
+
+     [Praktik dan Penjelasan **Method Constructor**](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/04-Constructor)
+
+5. **Konsep `this` dan `super`**
+
+    `this` sendiri merupakan kata kunci khusus untuk merujuk kepada class itu sendiri. Sedangkan `super`
+    merupakan kata kunci untuk merujuk kepada class induk
+
+    [Praktik dan Penjelasan **Konsep `this` dan `super`**](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/05-this-dan-super)
+
+6. **Class Interface**
+
+    Class Interface sendiri merupakan sebuah class yang menghubungkan suatu class dengan class turunan dari class interface itu sendiri. Banyak juga yang bilang class interface ini merupakan blueprint dari class turunannya
+
+    [Praktik dan Penjelasan **Class Interface**](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/06-interface)
+
 7. Class Abstract
