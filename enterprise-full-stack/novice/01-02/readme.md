@@ -50,7 +50,22 @@ ada 7 sub materi yang dibahas di konsep oop
 
 
 ## Materi Konsep Package
-
+-
 ## Materi Konsep Gradle
+Gradle adalah sebuah program yang berfungsi untuk melakukan build secara otomatis. Karena itu, Gradle sering disebut sebagai build-tool. Build di sini bisa kita artikan sebagai aktivitas melakukan compile dan packaging.
+
+compile dan packaging gradle ini sebenarnya sama dengan command
+```java
+javac HelloWorld.java
+```
+nah tapi jika kita menggunakan command `javac` pada project yang sudah besar yang dimana terdapat banyak file .java serta library akan sangat merepotkan. Disinilah Gradle hadir sebagai solusi dengan mengotomatisasinya
+
+Konsep kerja Gradle sama seperti Apache Ant dan Apache Maven.
+
+Namun, bedanya terletak pada bahasa DSL yang digunakan. Gradle menggunakan Groovy dan Kotlin, sedangkan Maven dan Ant menggunakan XML.
+
+untuk langkah-langkah penginstalan Gradle pada windows bisa dilihat di link dibawah
+
+[Panduan install Gradle pada windows]()
 
 ## Materi Konsep Exception Handling
