@@ -66,6 +66,6 @@ Namun, bedanya terletak pada bahasa DSL yang digunakan. Gradle menggunakan Groov
 
 untuk langkah-langkah penginstalan Gradle pada windows bisa dilihat di link dibawah
 
-[Panduan install Gradle pada windows]()
+[Panduan install Gradle pada windows](https://github.com/mhaniffatur/praxis-academy/tree/master/enterprise-full-stack/novice/01-02/09-gradle)
 
 ## Materi Konsep Exception Handling
