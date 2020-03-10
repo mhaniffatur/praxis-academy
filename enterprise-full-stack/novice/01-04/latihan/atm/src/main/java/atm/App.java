@@ -65,8 +65,9 @@ public class App {
                     System.out.println("\tPress [3] Balance Inquiry");
                     System.out.println("\tPress [4] Exit");
                
-                    System.out.print("\n\tWhat would you like to do? ");
+                    System.out.println("\n\tWhat would you like to do? ");
                     select = read.nextInt();
+                    System.out.println("tes ");
    
                         if(select>4)
                         {
