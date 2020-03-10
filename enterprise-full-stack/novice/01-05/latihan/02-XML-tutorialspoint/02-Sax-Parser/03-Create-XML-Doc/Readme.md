@@ -1,0 +1,1 @@
+It is better to use StAX parser for creating XML documents rather than using SAX parser. Please refer the Java StAX Parser section for the same.
