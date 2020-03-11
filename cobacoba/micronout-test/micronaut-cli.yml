@@ -1,5 +1,0 @@
-profile: service
-defaultPackage: micronout.test
----
-testFramework: junit
-sourceLanguage: java
