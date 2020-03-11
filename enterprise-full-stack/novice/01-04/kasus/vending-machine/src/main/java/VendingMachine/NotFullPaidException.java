@@ -1,5 +1,4 @@
 package VendingMachine;
-
 public class NotFullPaidException extends RuntimeException {
     private String message;
     private long remaining;
@@ -19,4 +18,3 @@ public class NotFullPaidException extends RuntimeException {
     } 
    
 }
-

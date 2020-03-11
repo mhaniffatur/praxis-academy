@@ -14,7 +14,7 @@ public class ReadJson
         JSONParser jsonparser = new JSONParser();
 
         try{
-            FileReader reader = new FileReader("/Users/syamil/Sites/praxis-academy/novice/01-05/kasus/universitas.json");
+            FileReader reader = new FileReader("universitas.json");
 
             // Membaca file json
             Object obj = jsonparser.parse(reader);

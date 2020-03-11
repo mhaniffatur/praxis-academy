@@ -1,5 +1,4 @@
 package VendingMachine;
-
 public class NotSufficientChangeException extends RuntimeException {
     private String message;
    
@@ -13,4 +12,3 @@ public class NotSufficientChangeException extends RuntimeException {
     }
    
 }
-

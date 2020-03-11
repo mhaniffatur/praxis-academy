@@ -8,7 +8,11 @@ public class App {
         return "Hello world.";
     }
 
+     public int multiply(int a, int b) {
+        return a * b;
+    }
+
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        System.out.println(new App().multiply(10,3));
     }
 }

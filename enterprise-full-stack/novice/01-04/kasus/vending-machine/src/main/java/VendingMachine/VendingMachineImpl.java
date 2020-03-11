@@ -47,6 +47,7 @@ public class VendingMachineImpl implements VendingMachine {
         cashInventory.add(coin);
     }
 
+
     @Override
     public Bucket<Item, List<Coin>> collectItemAndChange() {
         Item item = collectItem();
@@ -64,13 +65,11 @@ public class VendingMachineImpl implements VendingMachine {
                 itemInventory.deduct(currentItem);
                 return currentItem;
             }           
-            throw new NotSufficientChangeException("Not Sufficient change in 
-                                                    Inventory");
+            throw new NotSufficientChangeException("Not Sufficient change in Inventory");
            
         }
         long remainingBalance = currentItem.getPrice() - currentBalance;
-        throw new NotFullPaidException("Price not full paid, remaining : ", 
-                                          remainingBalance);
+        throw new NotFullPaidException("Price not full paid, remaining : ", remainingBalance);
     }
    
     private List<Coin> collectChange() {
@@ -101,6 +100,7 @@ public class VendingMachineImpl implements VendingMachine {
 
       
     private List<Coin> getChange(long amount) throws NotSufficientChangeException{
+
         List<Coin> changes = Collections.EMPTY_LIST;
        
         if(amount > 0){
@@ -132,8 +132,7 @@ public class VendingMachineImpl implements VendingMachine {
                     continue;
                    
                 }else{
-                    throw new NotSufficientChangeException("NotSufficientChange,
-                                       Please try another product");
+                    throw new NotSufficientChangeException("NotSufficientChange, Please try another product");
                 }
             }
         }
@@ -172,7 +171,7 @@ public class VendingMachineImpl implements VendingMachine {
         return hasChange;
     }
 
-    private void updateCashInventory(List change) {
+    private void updateCashInventory(List<Coin> change) {
         for(Coin c : change){
             cashInventory.deduct(c);
         }
@@ -183,4 +182,5 @@ public class VendingMachineImpl implements VendingMachine {
     }
    
 }
+
 
